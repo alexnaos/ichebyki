@@ -4,7 +4,11 @@
 #include "time.h"
 
 #define apSsid      "yoRadioAP"
-#define apPassword  "12345987"
+#define apPassword  "11111111"
+#define mySsid      "Sloboda100"
+#define myPassword  "2716192023"
+
+
 //#define TSYNC_DELAY 10800000    // 1000*60*60*3 = 3 hours
 #define TSYNC_DELAY       3600000     // 1000*60*60   = 1 hour
 #define WEATHER_STRING_L  254
