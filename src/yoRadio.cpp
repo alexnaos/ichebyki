@@ -16,6 +16,7 @@
  * ============================================================================================================
  */
 #include "Arduino.h"
+#include "myoptions.h"
 #include "src/core/options.h"
 #include "src/core/config.h"
 #include "src/core/telnet.h"
