@@ -7,7 +7,9 @@
 /* !!! Do not be alarmed, all right, the default values ​​are not included in this file !!! */
 
 #define L10N_LANGUAGE			RU
-#define I2S_INTERNAL			true
+//#define I2S_INTERNAL			true
+#define I2S_INTERNAL 1
+
 
 /* Дополнительные опции */
 #define VOLUME_STEP           5
